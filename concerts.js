@@ -4,8 +4,10 @@ var moment = require("moment");
 
 // Create the Concert constructor
 var Concert = function() {
-    // divider will be used as a spacer between the concert data we print in log.txt
-    var divider = "\n------------------------------------------------------------\n\n";
+    // this divider will be used as a spacer between the concert data we print in log.txt
+    var logDivider = "\n------------------------------------------------------------\n\n";
+    // this divider will be used as a spacer between the concert data we print in the console
+    var consoleDivider = "------------------------------------------------------------";
 
     // findConcert takes in the name of an artist and searches the Bands in Town API
     this.findConcert = function(artist) {
@@ -24,10 +26,10 @@ var Concert = function() {
             ].join("\n");
 
             console.log(concertData);
-            console.log(divider);
+            console.log(consoleDivider);
 
             // Append showData and the divider to log.txt, print showData to the console
-            fs.appendFile("log.txt", concertData + divider, function(err) {
+            fs.appendFile("log.txt", concertData + logDivider, function(err) {
                 if (err) throw err;
             });
         }

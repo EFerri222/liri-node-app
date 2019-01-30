@@ -1,5 +1,6 @@
 require("dotenv").config();
 var keys = require("./keys.js");
+var fs = require("fs");
 
 var Concert = require("./concerts");
 var Spotify = require('node-spotify-api');
@@ -17,40 +18,77 @@ var movie = new Movie();
 var search = process.argv[2];
 var term = process.argv.slice(3).join(" ");
 
-if (search === "concert-this") {
-    console.log(term.charAt(0).toUpperCase() + term.slice(1) + " Concerts:");
-    concert.findConcert(term);
-} else if (search === "spotify-this-song") {
+if (search === "do-what-it-says") {
 
-    if (!term) {
-        term = "the sign ace of base";
-    }
+    fs.readFile("random.txt", "utf8", function(error, data) {
 
-    spotify.search({type:'track', query:term}, function(err, data) {
-        if (err) {
-          return console.log('Error occurred: ' + err);
+        // If the code experiences any errors it will log the error to the console.
+        if (error) {
+          return console.log(error);
         }
 
-        var jsonData = data.tracks.items[0];
-        var artists = [];
+        // Split the data into an array by commas
+        var dataArr = data.split(",");
 
-        for (var i=0; i < jsonData.artists.length; i++) {
-            artists.push(jsonData.artists[i].name);
-        }
+        search = dataArr[0];
+        term = dataArr[1];
+        runLIRI();
+      
+      });
 
-        var songData = [
-            "Artist(s): " + artists.join(", "),
-            "Song Name: " + jsonData.name,
-            "Preview URL: " + jsonData.external_urls.spotify,
-            "Album: " + jsonData.album.name
-        ].join("\n");
-
-        console.log(songData);
-    });
-} else if (search === "movie-this") {
-
-    if (!term) {
-        term = "Mr. Nobody";
-    }
-    movie.findMovie(term);
 }
+
+var runLIRI = function() {
+
+    if (search === "concert-this") {
+
+        console.log(term.charAt(0).toUpperCase() + term.slice(1) + " Concerts:\n------------------------------------------------------------");
+        concert.findConcert(term);
+
+    } else if (search === "spotify-this-song") {
+
+        if (!term) {
+            term = "the sign ace of base";
+        }
+
+        spotify.search({type:'track', query:term}, function(err, data) {
+            if (err) {
+            return console.log('Error occurred: ' + err);
+            }
+
+            var jsonData = data.tracks.items[0];
+            var artists = [];
+
+            for (var i=0; i < jsonData.artists.length; i++) {
+                artists.push(jsonData.artists[i].name);
+            }
+
+            var songData = [
+                "Artist(s): " + artists.join(", "),
+                "Song Name: " + jsonData.name,
+                "Preview URL: " + jsonData.external_urls.spotify,
+                "Album: " + jsonData.album.name
+            ].join("\n");
+
+            console.log(songData);
+
+            var divider = "\n------------------------------------------------------------\n\n";
+
+            fs.appendFile("log.txt", songData + divider, function(err) {
+                if (err) throw err;
+            });
+
+        });
+
+    } else if (search === "movie-this") {
+
+        if (!term) {
+            term = "Mr. Nobody";
+        }
+
+        movie.findMovie(term);
+
+    }
+}
+
+runLIRI();
