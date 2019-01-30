@@ -1,4 +1,4 @@
-﻿Venue: Harry Bridges Memorial Park
+Venue: Harry Bridges Memorial Park
 Location: Long Beach, CA, United States
 Date: 02/09/2019
 ------------------------------------------------------------
@@ -23,9 +23,9 @@ Location: Richmond, VA, United States
 Date: 03/29/2019
 ------------------------------------------------------------
 
-Venue: The Warehouse at FTC
-Location: Fairfield, CT, United States
-Date: 03/31/2019
+Venue: Higher Ground
+Location: South Burlington, VT, United States
+Date: 04/03/2019
 ------------------------------------------------------------
 
 Venue: Hampton Beach Casino Ballroom
@@ -33,29 +33,24 @@ Location: Hampton, NH, United States
 Date: 04/02/2019
 ------------------------------------------------------------
 
-Venue: Higher Ground
-Location: South Burlington, VT, United States
-Date: 04/03/2019
-------------------------------------------------------------
-
-Venue: Danforth Music Hall
-Location: Toronto, , Canada
-Date: 04/05/2019
-------------------------------------------------------------
-
 Venue: The Intersection
 Location: Grand Rapids, MI, United States
 Date: 04/06/2019
 ------------------------------------------------------------
 
-Venue: House of Blues
-Location: Cleveland, OH, United States
-Date: 04/07/2019
+Venue: The Warehouse at FTC
+Location: Fairfield, CT, United States
+Date: 03/31/2019
 ------------------------------------------------------------
 
 Venue: Bogart's
 Location: Cincinnati, OH, United States
 Date: 04/11/2019
+------------------------------------------------------------
+
+Venue: House of Blues
+Location: Cleveland, OH, United States
+Date: 04/07/2019
 ------------------------------------------------------------
 
 Venue: The Rex Theater
@@ -68,14 +63,14 @@ Location: Baltimore, MD, United States
 Date: 04/13/2019
 ------------------------------------------------------------
 
-Venue: The Senate
-Location: Columbia, SC, United States
-Date: 04/16/2019
-------------------------------------------------------------
-
 Venue: The Orange Peel
 Location: Asheville, NC, United States
 Date: 04/17/2019
+------------------------------------------------------------
+
+Venue: The Senate
+Location: Columbia, SC, United States
+Date: 04/16/2019
 ------------------------------------------------------------
 
 Venue: Music Farm
@@ -93,9 +88,9 @@ Location: Norfolk, VA, United States
 Date: 04/20/2019
 ------------------------------------------------------------
 
-Venue: Estádio da Portuguesa
-Location: São Paulo, , Brazil
-Date: 05/11/2019
+Venue: Danforth Music Hall
+Location: Toronto, , Canada
+Date: 04/05/2019
 ------------------------------------------------------------
 
 Venue: Monterey Fairgrounds
@@ -108,10 +103,25 @@ Location: Dover, DE, United States
 Date: 06/21/2019
 ------------------------------------------------------------
 
-Artist(s): Drake, Kanye West, Lil Wayne, Eminem
-Song Name: Forever
-Preview URL: https://open.spotify.com/track/6HSqyfGnsHYw9MmIpa9zlZ
-Album: More Than A Game
+Venue: Estádio da Portuguesa
+Location: São Paulo, , Brazil
+Date: 05/11/2019
+------------------------------------------------------------
+
+Artist(s): Dire Straits, Sting
+Song Name: Money For Nothing
+Preview URL: https://open.spotify.com/track/4yqtwO7MQIIXqoiRBPHAgR
+Album: Brothers In Arms
+------------------------------------------------------------
+
+Title: National Treasure
+Year: 2004
+IMDB Rating: 6.9
+Rotten Tomatoes Rating: 45%
+Produced in: USA
+Language: English, Spanish
+Plot: A historian races to find the legendary Templar Treasure before a team of mercenaries.
+Actors: Nicolas Cage, Diane Kruger, Justin Bartha, Sean Bean
 ------------------------------------------------------------
 
 Title: Star Wars: Episode IV - A New Hope
@@ -122,11 +132,5 @@ Produced in: USA
 Language: English
 Plot: Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.
 Actors: Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing
-------------------------------------------------------------
-
-Artist(s): Backstreet Boys
-Song Name: I Want It That Way
-Preview URL: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
-Album: The Hits--Chapter One
 ------------------------------------------------------------
 
