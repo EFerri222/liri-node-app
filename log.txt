@@ -2176,3 +2176,216 @@ Location: Dover, DE, United States
 Date: 06/21/2019
 ------------------------------------------------------------
 
+Venue: Harry Bridges Memorial Park
+Location: Long Beach, CA, United States
+Date: 02/09/2019
+------------------------------------------------------------
+
+Venue: Culture Room
+Location: Fort Lauderdale, FL, United States
+Date: 03/07/2019
+------------------------------------------------------------
+
+Venue: Space Coast Daily Park
+Location: Melbourne, FL, United States
+Date: 03/08/2019
+------------------------------------------------------------
+
+Venue: Atlantic City Convention Center
+Location: Atlantic City, NJ, United States
+Date: 03/30/2019
+------------------------------------------------------------
+
+Venue: The National
+Location: Richmond, VA, United States
+Date: 03/29/2019
+------------------------------------------------------------
+
+Venue: Higher Ground
+Location: South Burlington, VT, United States
+Date: 04/03/2019
+------------------------------------------------------------
+
+Venue: Hampton Beach Casino Ballroom
+Location: Hampton, NH, United States
+Date: 04/02/2019
+------------------------------------------------------------
+
+Venue: The Intersection
+Location: Grand Rapids, MI, United States
+Date: 04/06/2019
+------------------------------------------------------------
+
+Venue: Danforth Music Hall
+Location: Toronto, , Canada
+Date: 04/05/2019
+------------------------------------------------------------
+
+Venue: The Warehouse at FTC
+Location: Fairfield, CT, United States
+Date: 03/31/2019
+------------------------------------------------------------
+
+Venue: The Rex Theater
+Location: Pittsburgh, PA, United States
+Date: 04/12/2019
+------------------------------------------------------------
+
+Venue: Rams Head Live!
+Location: Baltimore, MD, United States
+Date: 04/13/2019
+------------------------------------------------------------
+
+Venue: Bogart's
+Location: Cincinnati, OH, United States
+Date: 04/11/2019
+------------------------------------------------------------
+
+Venue: House of Blues
+Location: Cleveland, OH, United States
+Date: 04/07/2019
+------------------------------------------------------------
+
+Venue: The Orange Peel
+Location: Asheville, NC, United States
+Date: 04/17/2019
+------------------------------------------------------------
+
+Venue: Greenfield Lake Amphitheater
+Location: Wilmington, NC, United States
+Date: 04/19/2019
+------------------------------------------------------------
+
+Venue: The NorVa
+Location: Norfolk, VA, United States
+Date: 04/20/2019
+------------------------------------------------------------
+
+Venue: The Senate
+Location: Columbia, SC, United States
+Date: 04/16/2019
+------------------------------------------------------------
+
+Venue: Music Farm
+Location: Charleston, SC, United States
+Date: 04/18/2019
+------------------------------------------------------------
+
+Venue: Dover International Speedway
+Location: Dover, DE, United States
+Date: 06/21/2019
+------------------------------------------------------------
+
+Venue: Monterey Fairgrounds
+Location: Monterey, CA, United States
+Date: 05/26/2019
+------------------------------------------------------------
+
+Venue: Estádio da Portuguesa
+Location: São Paulo, , Brazil
+Date: 05/11/2019
+------------------------------------------------------------
+
+Title: undefined
+------------------------------------------------------------
+
+Title: undefined
+------------------------------------------------------------
+
+Title: undefined
+------------------------------------------------------------
+
+Title: Star Wars: Episode IV - A New Hope
+------------------------------------------------------------
+
+Title: Star Wars: Episode IV - A New Hope
+Year: 1977
+------------------------------------------------------------
+
+Title: Star Wars: Episode IV - A New Hope
+Year: 1977
+Rating: undefined
+------------------------------------------------------------
+
+Title: Star Wars: Episode IV - A New Hope
+Year: 1977
+Rating: [object Object],[object Object],[object Object]
+------------------------------------------------------------
+
+Title: Star Wars: Episode IV - A New Hope
+Year: 1977
+Rating: [object Object]
+------------------------------------------------------------
+
+Title: Star Wars: Episode IV - A New Hope
+Year: 1977
+IMDB Rating: undefined
+------------------------------------------------------------
+
+Title: Star Wars: Episode IV - A New Hope
+Year: 1977
+IMDB Rating: 8.6
+------------------------------------------------------------
+
+Title: Star Wars: Episode IV - A New Hope
+Year: 1977
+IMDB Rating: 8.6
+Rotten Tomatoes Rating: 93%
+------------------------------------------------------------
+
+Title: Star Wars: Episode IV - A New Hope
+Year: 1977
+IMDB Rating: 8.6
+Rotten Tomatoes Rating: 93%
+Produced in: USA
+------------------------------------------------------------
+
+Title: Star Wars: Episode IV - A New Hope
+Year: 1977
+IMDB Rating: 8.6
+Rotten Tomatoes Rating: 93%
+Produced in: USA
+Language: English
+Plot: Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.
+------------------------------------------------------------
+
+Title: Star Wars: Episode IV - A New Hope
+Year: 1977
+IMDB Rating: 8.6
+Rotten Tomatoes Rating: 93%
+Produced in: USA
+Language: English
+Plot: Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.
+ActorsMark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing
+------------------------------------------------------------
+
+Title: Star Wars: Episode IV - A New Hope
+Year: 1977
+IMDB Rating: 8.6
+Rotten Tomatoes Rating: 93%
+Produced in: USA
+Language: English
+Plot: Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.
+Actors: Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing
+------------------------------------------------------------
+
+Title: Star Wars: Episode IV - A New Hope
+Year: 1977
+IMDB Rating: 8.6
+Rotten Tomatoes Rating: 93%
+Produced in: USA
+Language: English
+Plot: Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.
+Actors: Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing
+------------------------------------------------------------
+
+Title: Mr. Nobody
+Year: 2009
+IMDB Rating: 7.9
+Rotten Tomatoes Rating: 67%
+Produced in: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+------------------------------------------------------------
+

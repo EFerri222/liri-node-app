@@ -2,9 +2,9 @@ var axios = require("axios");
 var fs = require("fs");
 var moment = require("moment");
 
-// Create the TV constructor
+// Create the Concert constructor
 var Concert = function() {
-    // divider will be used as a spacer between the tv data we print in log.txt
+    // divider will be used as a spacer between the concert data we print in log.txt
     var divider = "\n------------------------------------------------------------\n\n";
 
     // findConcert takes in the name of an artist and searches the Bands in Town API

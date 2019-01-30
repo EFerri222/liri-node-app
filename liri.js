@@ -3,12 +3,16 @@ var keys = require("./keys.js");
 
 var Concert = require("./concerts");
 var Spotify = require('node-spotify-api');
+var Movie = require("./movies")
 
 // Create a new Concert object
 var concert = new Concert();
 
 // Create a new Spotify object
 var spotify = new Spotify(keys.spotify);
+
+// Create a new Movie object
+var movie = new Movie();
 
 var search = process.argv[2];
 var term = process.argv.slice(3).join(" ");
@@ -21,7 +25,7 @@ if (search === "concert-this") {
     if (!term) {
         term = "the sign ace of base";
     }
-    
+
     spotify.search({type:'track', query:term}, function(err, data) {
         if (err) {
           return console.log('Error occurred: ' + err);
@@ -43,4 +47,10 @@ if (search === "concert-this") {
 
         console.log(songData);
     });
+} else if (search === "movie-this") {
+
+    if (!term) {
+        term = "Mr. Nobody";
+    }
+    movie.findMovie(term);
 }
